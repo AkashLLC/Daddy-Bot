@@ -21,10 +21,10 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creator Fasil*
 
-*owner number  wa.me/918136831431?text=Hi*
+*owner number  wa.me/919061055388?text=Hi*
 
 
-*githublink       https://github.com/Fasil-vkn/Paathu*
+*Follow us on Instagram       https://Instagram.com/akash.as_/*
 
 
 `}) 
